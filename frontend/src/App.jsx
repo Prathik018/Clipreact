@@ -139,7 +139,7 @@ function App() {
         </div>
       )}
       <footer className="footer">
-        Developed by <a href="https://x.com/Prathik__Pai" target="_blank" rel="noopener noreferrer">Prathik Pai</a>
+        Developed by Prathik Pai
       </footer>
     </div>
   );
